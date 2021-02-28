@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Dosis:wght@300;400;600;800&display=swap");
+
+body {
+  font-family: "Dosis", sans-serif;
+}
+img {
+  width: 100%;
+}
+
+.top {
+  background-image: url(../images/background.jpg);
+  height: 947px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.top nav .logo {
+  font-weight: 500;
+  font-size: 22px;
+  letter-spacing: 3px;
+}
+.top nav .logo span {
+  font-size: 16px;
+  letter-spacing: 1px;
+  font-weight: 600;
+}
+.top .navbar-nav li a {
+  color: white;
+}
+.top .navbar-nav li a img {
+  height: 3vh;
+}
+
+div .header-containt {
+  padding-top: 161px;
+}
+div .header-containt h1 {
+  font-weight: 700;
+  letter-spacing: 2px;
+  font-size: 42px;
+}
+div .header-containt h1 span {
+  color: #ffad00;
+}
+div .header-containt p {
+  font-size: 26px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-top: 56px;
+}
+
+div .border-white {
+  padding: 20px;
+}
+div .border-white h1 {
+  font-weight: 400;
+}
+div .border-white p {
+  font-weight: 500;
+  letter-spacing: 1px;
+}
+
+.header-bottom {
+  padding: 106px;
+}
+.header-bottom h1 {
+  font-weight: 600;
+  font-size: 57px;
+  color: #007bff;
+}
+.header-bottom h4 {
+  font-weight: 600;
+}
+.header-bottom span {
+  color: #007bff;
+  font-weight: bolder;
+  font-size: 31px;
+}
+.header-bottom p {
+  font-size: 20px;
+  margin-top: 21px;
+}
+
+.mid,
+.mid-3,
+.footer-1 {
+  background-color: #f3f6fb;
+  padding-top: 105px;
+  padding-bottom: 105px;
+}
+.mid div h3 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.mid div img {
+  border-radius: 12px;
+}
+
+.mid .row .padding {
+  padding: 4px;
+}
+
+.mid-2 h1 {
+  color: #007bff;
+  font-size: 72px;
+  font-weight: 600;
+}
+.mid-2 h3 {
+  font-weight: 600;
+}
+.mid-2 p {
+  font-weight: 500;
+  font-size: 19px;
+  padding-top: 19px;
+}
+.mid-2 span {
+  font-weight: bolder;
+  color: #007bff;
+  font-size: 27px;
+}
+
+.mid-3 h1,
+.footer-1 h1 {
+  color: #007bff;
+  font-size: 72px;
+  font-weight: 600;
+}
+.mid-3 h3 {
+  font-weight: 600;
+}
+.mid-3 p {
+  font-weight: 500;
+  font-size: 19px;
+  padding-top: 19px;
+}
+.mid-3 span {
+  font-weight: bolder;
+  color: #007bff;
+  font-size: 27px;
+}
+.mid-3,
+.mid-4 img {
+  border-radius: 12px;
+  padding: 5px;
+}
+
+.mid-3,
+.mid-4 div h5,
+.footer-1 h1 {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.mid-4 h1 {
+  color: #007bff;
+  font-size: 72px;
+  font-weight: 600;
+}
+.mid-4 h3 {
+  font-weight: 600;
+}
+.mid-4 p {
+  font-weight: 500;
+  font-size: 19px;
+  padding-top: 19px;
+}
+.mid-4 span {
+  font-weight: bolder;
+  color: #007bff;
+  font-size: 27px;
+}
+
+.mid-4 {
+  padding-top: 105px;
+  padding-bottom: 105px;
+}
+.footer-1 .row img {
+  width: 70%;
+}
+.footer-1 .row div .footer-padding {
+  padding: 32px;
+}
+
+.footer {
+  background-color: #333333;
+  height: 550px;
+}
+
+.end {
+  height: 80px;
+}
+.end p {
+  padding: 21px;
+}
